@@ -1,0 +1,43 @@
+*, div, span {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+/* navigation */
+.navigation {
+  vertical-align: middle;
+  height: 90px;
+  line-height: 90px;
+}
+
+.navigation h1 {
+  font-size: 42px;
+  font-family: 'century gothic';
+}
+/*end navigation */
+
+/* port row */
+.port-row {
+  padding: 15px;
+  padding-top: 0px;
+}
+
+.port-container-link a {
+  display: inline-block;
+}
+
+.port-container:hover {
+  background-color: rgb(206,253,227);
+  border: 2px solid rgb(133,250,185);
+}
+/* end port row */
+
+/*container box */
+/*end container box */
+
+/* port-container */
+.port-container {
+  padding: 10px;
+}
+/*end port-container */
