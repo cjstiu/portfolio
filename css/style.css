@@ -41,3 +41,39 @@
   padding: 10px;
 }
 /*end port-container */
+
+/* profile-container */
+.profile-upper {
+  padding: 20px;
+}
+
+.profile-upper p {
+  text-align: center;
+}
+
+.profile-upper-container {
+  display: inline-block;
+  width: 90%;
+  margin: auto;
+}
+
+.about-img {
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 190px;
+  margin: 10px;
+}
+
+.btn {
+  display:inline-block;
+  min-width: 80px;
+}
+
+.profile-lower h2 {
+  display: inline-block;
+}
+
+.profile-lower p {
+  font-size: 18px;
+}
+/* end profile-container */
